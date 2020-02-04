@@ -1,0 +1,251 @@
+
+/**************************************css*****************************************/
+
+
+
+/**************************************body*****************************************/
+
+body{
+  background-color:#FFF;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+
+
+/**************************************hr*****************************************/
+
+.dotted-hr {
+	border-style: none;
+    width: 5%;
+    border-top-style: dotted;
+    border-width: 5px;
+	border-color:#609;	
+	
+}
+
+/**************************************text*****************************************/
+
+.page-title {
+	margin: 0;
+	color: #039;
+	font-family: Bradley Hand ITC;
+	text-align: center;
+	
+
+}
+
+.title{
+	text-align: center;
+	font-family: Bradley Hand ITC;
+	font-size: 30px;
+	color:#006;
+	
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin: 0;
+	color:#000;
+	font-family: Bookman Old Style;
+}
+
+.p{
+	margin: 0;
+	color:#36f;
+	font-family: Blackadder ITC;
+     center: 100px
+
+}
+
+
+
+p{
+	font-family: Agency FB;
+	color:#000;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+
+
+
+
+/**************************************text*****************************************/
+
+
+
+/**************************************div*****************************************/
+.ul{
+	background-color: #BBD6F0;
+    text-align: center;
+	position: relative;
+	filter:  brightness(1);
+
+}
+
+
+.bottom-container{
+	text-align:center;
+	background-color:#FFBF80;
+	margin:auto;
+}
+
+.contact-me{
+	text-align:center;
+	background-color:#FFBF80;
+	margin:auto;
+}
+
+
+.contact-me{
+	text-align:center;
+	background-color:#FFBF80;
+	margin:auto;
+	
+}
+
+.footer{
+	text-align:center;
+	
+}
+
+.footer{
+	background-color:#FFBF80;
+	margin:auto;
+	text-align:center;
+	
+}
+
+
+.fulfooter{
+		background-color:#FFBF80;
+}
+
+
+
+/**************************************div*****************************************/
+
+
+
+
+/**************************************imiage*****************************************/
+
+.mount{
+	width: 100%;
+	border: 100;
+	border-color: #066964;
+}
+
+.pacman{
+	background-color: #BBD6F0;
+	border: 100;
+	border-color: #BBD6F0;
+}
+/**************************************imiage*****************************************/
+
+
+/**************************************css*****************************************/
+
+
+.profile {
+	    text-align: center;
+    padding: 0%;}
+
+
+	 	
+.skills h2 {
+	text-align: center;}
+
+
+		
+.skill-img {
+	width: 10%;
+}
+	
+
+
+
+.skill-text:hover{
+	
+	
+}
+
+
+.footer-img {
+	width: 4%;
+	height: 4%;
+	
+}
+
+
+.middle-container{
+	background-color:#FFCF9F;
+
+
+	
+
+}
+
+.footer-link {
+	
+margin-right: 10px;
+
+}
+
+.footer-link {
+	
+margin-left: 10px;
+
+}
+
+.contact{
+background-color:#FFBF80;
+	
+}
+
+.text-feild{
+	position:absolute;
+
+	color:#FFF;
+background-color:#339;
+width: 70px;
+height: 40px;
+}
+
+
+
+.skills{
+	background-color:#FFCF9F;
+}
+
+
+
+
+/**********************************b***********************************/
+
+#features{
+	padding: 7% 15%
+}
+
+
+
+
+.features-box{
+	text-align:center;
+	padding-top: 2%;
+	transition: background-color 2s;
+}
+
+.features-box:hover{
+	 background-color:#FFB871;
+	 color:#FFF;
+}
+
+h3 {
+	font-family: "Montserrat-Bold";
+}
+
