@@ -158,7 +158,9 @@ p{
 
 	 	
 .skills h2 {
-	text-align: center;}
+	text-align: center;
+	margin: 0;
+}
 
 
 		
@@ -236,7 +238,7 @@ height: 40px;
 
 .features-box{
 	text-align:center;
-	padding-top: 2%;
+	padding: 5%;
 	transition: background-color 2s;
 }
 
